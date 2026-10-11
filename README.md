@@ -2,4 +2,4 @@
 
 O comando `git init` serve para iniciar o projeto
 
-Esse é uma adição no github
+Esse é uma adição no GITHUB
